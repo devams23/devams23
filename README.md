@@ -6,8 +6,6 @@
 -->
 <div id = "header" align = "center" > 
   <h1> Hi there 👋 </h1>
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=devams23&label=Profile%20views&color=0e75b6&style=flat" alt="devams23" /> </p>
-
   <div id="badges">
   <a href="https://www.linkedin.com/in/devam-satasiya-967987280/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -19,6 +17,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   </div>
+    <p align="center"> <img src="https://komarev.com/ghpvc/?username=devams23&label=Profile%20views&color=0e75b6&style=flat" alt="devams23" /> </p>
 </div>
 
 <hr>
