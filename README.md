@@ -3,7 +3,7 @@
   <div id="badges">
   <a href="https://www.linkedin.com/in/devam-satasiya-967987280/">
 
-  ![](https://komarev.com/ghpvc/?username=vikashpr&color=011a3d) <br/>
+  ![](https://komarev.com/ghpvc/?username=devams23&color=011a3d) <br/>
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
