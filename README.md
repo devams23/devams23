@@ -1,10 +1,10 @@
 ### <p align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm Devam Satasiya</p>
 <div id = "header" align = "center" > 
   <div id="badges">
-  <a href="https://www.linkedin.com/in/devam-satasiya-967987280/">
+  <a href="https://www.linkedin.com/in/devam-satasiya/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> <a/>
 
   ![](https://komarev.com/ghpvc/?username=devams23&color=011a3d) <br/>
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    
   </a>
 </div>
 
