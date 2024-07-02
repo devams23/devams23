@@ -1,24 +1,9 @@
-
-
-<!-- 
-**sdevam6990/sdevam6990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
--->
+### <p align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm Devam Satasiya</p>
 <div id = "header" align = "center" > 
-  <h1> Hi there 👋 </h1>
   <div id="badges">
   <a href="https://www.linkedin.com/in/devam-satasiya-967987280/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  </div>
-  <br/>
-    <p align="center"> <img src="https://komarev.com/ghpvc/?username=devams23&label=Profile%20views&color=0e75b6&style=flat" alt="devams23" /> </p>
 </div>
 
 <hr>
@@ -45,4 +30,7 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 <hr>
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=devams23&theme=dark&background=000000)](https://git.io/streak-stats)
+
+| <img width="450em" src="https://github-profile-trophy.vercel.app/?username=devams23&theme=onestar&row=2&column=4&margin-w=10&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy"> | <img  width="450em" src="https://github-readme-stats.vercel.app/api/top-langs?username=devams23&show_icons=true&locale=en&layout=compact&theme=dark" alt="devams's Most used lang" /> |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                           <img  width="450em"   src="https://streak-stats.demolab.com?user=devams23&theme=dark" alt="devams23 Streak" />                                           |  <img width="450em" align="center" alt="devams's Github stats"  src="https://github-readme-stats.vercel.app/api?username=devams23&show_icons=true&count_private=true&theme=dark" />   |
