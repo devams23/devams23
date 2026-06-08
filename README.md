@@ -2,6 +2,7 @@
 <div id = "header" align = "center" > 
   <div id="badges">
   <a href="https://www.linkedin.com/in/devam-satasiya/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> <a/>
+  <a href="https://x.com/DSatasiya23"> <img src="https://img.shields.io/badge/(twitter)-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/> <a/>
 
   ![](https://komarev.com/ghpvc/?username=devams23&color=011a3d) <br/>
     
